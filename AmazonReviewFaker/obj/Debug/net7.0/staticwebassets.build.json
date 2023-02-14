@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZzUK8dEwn3o12LZVv4o0FGGZt9wW5WwsNfsnvYC4QRw=",
+  "Source": "AmazonReviewFaker",
+  "BasePath": "_content/AmazonReviewFaker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
