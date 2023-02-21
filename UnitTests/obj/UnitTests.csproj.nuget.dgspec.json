@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\UnitTests.csproj": {}
+    "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
         "projectName": "AmazonReviewFaker",
-        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\UnitTests.csproj": {
+    "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\UnitTests.csproj",
+        "projectUniqueName": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\UnitTests.csproj",
         "projectName": "UnitTests",
-        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\UnitTests.csproj",
+        "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\UnitTests.csproj",
         "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\obj\\",
+        "outputPath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -114,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj": {
-                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj"
+              "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj": {
+                "projectPath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj"
               }
             }
           }

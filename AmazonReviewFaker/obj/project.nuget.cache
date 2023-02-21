@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxHcNrjTcNmppuf3D5Nz0NChrbe1Wf4c0sKKnBkK38WkhkVUsCu2zRrDtoEBHJjG9/a48Td9pLy0EMJ4wMweBQ==",
+  "dgSpecHash": "QiaVmVajlj7913+oAfo+495LRaezQStWr+IFFP6eR8LQL3EYUymAufL0PMhTDxjTWtlcNhyU4K/D6SgguEAGBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\AmazonReviewFaker\\AmazonReviewFaker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.2\\microsoft.entityframeworkcore.abstractions.7.0.2.nupkg.sha512",

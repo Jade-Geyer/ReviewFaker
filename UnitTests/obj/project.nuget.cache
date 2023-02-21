@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1++MG+lPQMRlMrnvDlNubpW5GCzB5XP/LNBDfjTF5BKywqp2XJlrt3prsb+ZUpyQHDoM+p2x2ZIYoxgWT49SdQ==",
+  "dgSpecHash": "6MnGmPq2SBGzJMW1X1ufBT5GkMJW24jgihKQv4oXQSbcLpT/getKIORjtmIUKO5dzMU+KkJ4artfYdLBryX7Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\AmazonReviewFaker\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\Documents\\GitHub\\ReviewFaker\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
